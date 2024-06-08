@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi-document editor", "Multi-document editor\Multi-document editor.csproj", "{C810D4B3-4713-4A4F-8F56-D78DAE52BDF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C810D4B3-4713-4A4F-8F56-D78DAE52BDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C810D4B3-4713-4A4F-8F56-D78DAE52BDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C810D4B3-4713-4A4F-8F56-D78DAE52BDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C810D4B3-4713-4A4F-8F56-D78DAE52BDF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0DD503B-0474-4358-82A2-F984C500948F}
+	EndGlobalSection
+EndGlobal
